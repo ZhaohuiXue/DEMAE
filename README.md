@@ -21,18 +21,18 @@ Instructions for usage
     visualization.py ...... A script for drawing and visualization.
 
 Cite:
-
+---------------------
    [1] Z. Li, Z. Xue, M. Jia, X. Nie, H. Wu, M. Zhang, H. Su. DEMAE: Diffusion-Enhanced Masked Autoencoder for Hyperspectral Image Classification With Few Labeled Samples[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 1-16.
-   --------------------------------------
-   Copyright & Disclaimer
-   --------------------------------------
+ 
+Copyright & Disclaimer
+---------------------
 
    The programs contained in this package are granted free of charge for
    research and education purposes only. 
 
    Copyright (c) 2021 by Zhaohui Xue & Ziyu Li
    zhaohui.xue@hhu.edu.cn
-   --------------------------------------
+---------------------
    For full package:
-   --------------------------------------
+---------------------
    https://sites.google.com/site/zhaohuixuers/
